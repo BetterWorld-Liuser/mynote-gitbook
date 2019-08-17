@@ -1,7 +1,7 @@
 {
-    "title": "Blankj's Glory",
-    "author": "Blankj",
-    "description": "select * from learn",
+    "title": "刘政东的知识库",
+    "author": "刘政东",
+    "description": "自由学习～",
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "styles": {
@@ -9,11 +9,6 @@
     },
     "structure": {
         "readme": "README.md"
-    },
-    "links": {
-        "sidebar": {
-            "我的狗窝": "https://blankj.com"
-        }
     },
     "plugins": [
         "-sharing",
