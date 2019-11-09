@@ -1,0 +1,11 @@
+{
+  "name": "mynote-gitbook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:liuzhengdong2/mynote-gitbook.git",
+  "author": "liuser-macpro12 <735083049@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.3.1"
+  }
+}

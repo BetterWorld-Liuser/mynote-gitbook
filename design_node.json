@@ -1,0 +1,38 @@
+{
+    "id":"唯一确定机械原理的节点",
+    "name":"机械原理",
+    "timeCost":100,
+    "precondition":[
+        {
+            "id":"唯一确定一个节点",
+            "name":"高等数学",
+            "ifNecessity":true,
+            "importance":2
+        },
+        {
+            "id":"唯一确定初等代数",
+            "name":"初等代数",
+            "ifNecessity":true,
+            "importance":2
+        }
+    ],
+    "future":[
+        {
+            "id":"唯一确定公差测量",
+            "name":"公差测量",
+            "ifNecessity":true,
+            "trend":2
+        }
+    ],
+    "learn_url":[
+        {
+            "title":"url 的简介",
+            "url":"mmmmmmmm",
+            "like":10,
+            "dislike":10,
+            "ifRecommand":9
+        }
+    ]
+    
+
+}
