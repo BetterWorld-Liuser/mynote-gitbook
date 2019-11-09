@@ -6,6 +6,7 @@
   "author": "liuser-macpro12 <735083049@qq.com>",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "nodemailer": "^6.3.1",

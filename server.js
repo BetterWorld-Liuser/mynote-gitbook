@@ -15,6 +15,7 @@ res.send("请求成功")
 })
 
 app.post('/usr/reg',(req,res)=>{
+    let body =req.body
     
 })
 
