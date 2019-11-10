@@ -31,7 +31,8 @@
             "like":10,
             "dislike":10,
             "ifRecommand":9,
-            "time-alert":"2019/11/11"
+            "time-alert":"2019/11/11",
+            "ifNeedMoney":0
         }
     ]
     
