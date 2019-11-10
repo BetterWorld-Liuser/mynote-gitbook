@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gfwiname": "^1.0.0",
+    "mongoose": "^5.7.9"
+  }
+}
