@@ -1,0 +1,23 @@
+{
+    "appName": "OneNote.exe",
+    "ifExg":"flase",
+    "rank":1,
+    "keys": [
+        {
+            "order": 2,
+            "name": "复制",
+            "key": "Ctrl + C"
+        },
+        {
+            "order": 1,
+            "name": "粘贴",
+            "key": "Ctrl + V"
+        },
+        {
+            "order": 3,
+            "name": "粘贴",
+            "key": "Ctrl + V"
+        }
+
+    ]
+}
