@@ -15,7 +15,6 @@
   "dependencies": {
     "@vue/devtools": "^5.3.2",
     "core-js": "^3.3.2",
-    "gfwiname": "^1.0.0",
     "global": "^4.4.0",
     "lowdb": "^1.0.0",
     "vue": "^2.6.10"
