@@ -2,7 +2,7 @@
 #include "ui_shortcuthelper.h"
 #include "windows.h"
 #include <QStyleOption>
-#include <Qpainter>
+#include <QPainter>
 #include <QShortcut>
 #include <QHotkey>
 #include <QDebug>

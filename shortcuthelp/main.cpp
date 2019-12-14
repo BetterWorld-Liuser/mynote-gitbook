@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
         if(val != appPath)
             reg->setValue(appName,appPath);// 如果移除的话，reg->remove(applicationName);
     //reg->deleteLater();
-    //w.show();
+    w.show();
 
     return a.exec();
 }
